@@ -50,11 +50,11 @@ composer install
 8. Compile the assets:
     npm run dev
 9.  Docker Database config:
-    DB_CONNECTION=mysql
-    DB_HOST=your-mantis-database-host
-    DB_PORT=your-mantis-database-port
-    DB_DATABASE=your-mantis-database-name
-    DB_USERNAME=your-mantis-database-username
+    DB_CONNECTION=mysql </br>
+    DB_HOST=your-mantis-database-host  </br>
+    DB_PORT=your-mantis-database-port </br>
+    DB_DATABASE=your-mantis-database-name </br>
+    DB_USERNAME=your-mantis-database-username </br>
     DB_PASSWORD=your-mantis-database-password
 
 
